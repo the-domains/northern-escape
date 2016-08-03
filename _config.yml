@@ -1,4 +1,3 @@
-layout_spectrum: 0.4094260309357196
 typography_spectrum: 0.989276397973299
 color:
   brandStrength: 0.706115314969793
@@ -11,5 +10,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.4094260309357196
 name: Northern Escape
+title: Northern Escapes
 description: World Class adventures north of Auckland
