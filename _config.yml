@@ -1,18 +1,18 @@
-typography_spectrum: 0.989276397973299
+layout_spectrum: 0.010733271483331919
+typography_spectrum: 0.49616400455124676
 color:
-  brandStrength: 0.706115314969793
-  lightness: 0.26352508645504713
-  saturation: 0.4470093681011349
-  rhythmicContrast: 0.594755575992167
+  brandStrength: 0.6737363925203681
+  lightness: 0.33178488072007895
+  saturation: 0.031829398358240724
+  rhythmicContrast: 0.7080695577897131
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#19171B'
+    - '#009DE0'
+    - '#FCC300'
+    - '#B07D3F'
+    - '#0000FF'
 opengraph:
   type: omahaholidayhouses
-layout_spectrum: 0.4094260309357196
 author:
   name: Concierge
   email: manager@omahaholidayhouses.co.nz
