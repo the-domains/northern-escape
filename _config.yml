@@ -19,6 +19,10 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/54df1f0f-ed98-43de-90ca-c10e283751cb.jpg
 name: Northern Escape
+navigation:
+  - name: The best accomodation experience north of Auckland
+    url: 'http://www.omahaholidayhouses.co.nz'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/47ab832b-fc9d-484f-b8c3-e665f2fda643.ico
 title: Northern Escapes
